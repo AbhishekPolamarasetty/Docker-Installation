@@ -15,7 +15,7 @@
    sudo apt-get install docker-ce docker-ce-cli containerd.io
    ```
 
-````
+
 
 2. **Minikube Installation**
 
@@ -109,4 +109,4 @@
    curl internal_ip:port
    ```
 
-````
+
